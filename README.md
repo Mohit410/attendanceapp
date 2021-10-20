@@ -1,4 +1,4 @@
-# attendance
+# MBM Attendance
 
 A new Flutter project.
 
