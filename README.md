@@ -1,16 +1,9 @@
 # MBM Attendance
 
-A new Flutter project.
+#Description
+Android student attendance tracker app with QR code implementation, built with Java in Android Studio. Cloud Firestore was used for the back-end. This app was developed as part of a remote group project for a college subject in 2020. The name "Authendance" is a portmanteau of authentication and attendance.
 
-## Getting Started
+#How It Works
+Lecturers generate a unique QR code for one of their subjects and students can scan them using the app, recording their attendance for that subject on that day. Lecturers can see student attendance records for their modules and students can see their own personal attendance. Admins can see a list of all students and lecturers and the attendance of all students.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
